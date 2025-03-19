@@ -4,25 +4,23 @@
 # Compras
 * ebay empty bids https://nobids.net/
 * Black Friday, Prime day o el 11/11 de AliExpress.
-```
-Abandona carritos en Amazon, AliExpress y otras tiendas para que te manden cupones por email, y no subestimes el poder de los grupos privados de Telegram
-```
 
-```
-Amazon Vine, en el que Chollómetro selecciona a sus miembros más confiables y con las aportaciones más útiles para que prueben productos nuevos o en preventa de forma gratuita. Incluso premiando la participación y la aportación de conocimientos sobre un determinado producto de una oferta, obsequiándoles con alguna unidad de la misma.
+> Abandona carritos en Amazon, AliExpress y otras tiendas para que te manden cupones por email, y no subestimes el poder de los grupos privados de Telegram
 
-Muchos artículos de los que compro en Amazon los busco antes de Segunda Mano, algunas veces con descuentos muy buenos y que te lo mandan prácticamente nuevo si no sales de Como Nuevo o Muy Bueno. Mucho dinero me he ahorrado con esto.
 
-Aquí por ejemplo, todos los productos que hay de "Segunda Mano" en Amazon en este enlace, además tienen un 10% de descuento extra.
+
+> Amazon Vine, en el que Chollómetro selecciona a sus miembros más confiables y con las aportaciones más útiles para que prueben productos nuevos o en preventa de forma gratuita. Incluso premiando la participación y la aportación de conocimientos sobre un determinado producto de una oferta, obsequiándoles con alguna unidad de la misma.
+
+> Muchos artículos de los que compro en Amazon los busco antes de Segunda Mano, algunas veces con descuentos muy buenos y que te lo mandan prácticamente nuevo si no sales de Como Nuevo o Muy Bueno. Mucho dinero me he ahorrado con esto.
+
+> Aquí por ejemplo, todos los productos que hay de "Segunda Mano" en Amazon en este enlace, además tienen un 10% de descuento extra.
 amazon.es/b/?…D9T
 
-Tambien, para saber si es buena compra algo o el descuento en real, busco en la Extensión de Chollometro y ahí se ve bien si es buena oferta o por el contrario es su precio real e incluso alto.
+> Tambien, para saber si es buena compra algo o el descuento en real, busco en la Extensión de Chollometro y ahí se ve bien si es buena oferta o por el contrario es su precio real e incluso alto.
 chromewebstore.google.com/det…i=1
-```
 
-```
-Usando la compra conjunta en la app Tienda Xiaomi ya que añadiendo un cable que vale 3.99€ luego puedes conseguir productos de 130 a 60€ por ejemplo. Además de aplicar siempre que se puede el cupón de 10€ por 600 mi points o el de BIENVENIDO que descuenta lo mismo si gastas 69€.
-```
+>Usando la compra conjunta en la app Tienda Xiaomi ya que añadiendo un cable que vale 3.99€ luego puedes conseguir productos de 130 a 60€ por ejemplo. Además de aplicar siempre que se puede el cupón de 10€ por 600 mi points o el de BIENVENIDO que descuenta lo mismo si gastas 69€.
+
 ## comparador precios
 * Idealo,Kelkoo,Google shopping, savemoney.es, edge, kimovil,  camelcamelcamel
 * add-ons Como keepa, AliTools
