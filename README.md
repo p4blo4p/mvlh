@@ -32,7 +32,10 @@ Y para hoteles de 5-7 dias mirad 2+3 o 3+2 muchas veces en el mismo hotel aunque
 * Cupones.es, Cupon.es, Radarcupon etc, o incluso en Chollometro
 
 ## cashback
-* erubi, Igraal
+* berubi, Igraal
+
+## comparador fondos
+* comparador fondos https://www.finect.com/fondos-inversion/listado?order=-M120
 
 # alimentos
 [precios alimentos básicos españa](https://poy.es)
