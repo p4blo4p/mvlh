@@ -63,6 +63,9 @@ Y para hoteles de 5-7 dias mirad 2+3 o 3+2 muchas veces en el mismo hotel aunque
 - https://www.expireddomains.net/
 - https://tld-list.com/tlds-from-a-z
 
+# Monetización
+- Afiliados https://www.affiliateprogramdb.com/
+
 # Crypto
 - stakingrewards.com 
 - airdrops.io
